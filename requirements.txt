@@ -1,0 +1,3 @@
+# Python dependencies for the try-on app
+fashn
+python-dotenv
