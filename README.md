@@ -28,6 +28,7 @@ python test.py
 ## Example
 
 Below is a quick preview showing a model image, a cloth PNG, and the composed result (model + cloth = result).
+It's better fit if the cloth already on model, even if the model would be the other person.
 
 <table>
 <tr>
@@ -38,7 +39,14 @@ Below is a quick preview showing a model image, a cloth PNG, and the composed re
 <td><img src="https://i.wfolio.com/x/KfN2JhbB89-m6UeUSQ-43b-4LTDPyZVn/q6sVLUvjujnOk6mXbO2srbIKpPlcOqy0/t7rVx8PT5NFW95R5iPfYgBdCvXqdZSYC/zyAGIGx14QnH8prwkbZ-T_VQC0dpw9Hp/imD7pN62XUepN3NSIwunZivpTEHlizDC/pQpcrjYZqQJvUtUt4HACGJ6AV5G3Chd9/FZ5BNwt4ycGq0LeStRaS21f0TnE0RrFR/Z5Iamix_ElOu5TXOmrIYv7rF3knZQ4QC/3X2PLPlQbFc-G1C1Az5GJf2eq-ASD7DK/rJroK6K9VCy6qg4c8Xv043FBQcslyO6b/EYNAOfLW4DU_DkbTy9iqB4Dzp16gz74S/K3rK_UIEfLv4498XS9-qTwn1JuAowYzF/YZDFhY6dopxnBb8_MxH7-B0aUaMF-bZn/zcV5GC4uE9B0umE9T506B8x5IPWW5BEm/XQ0KLvp01zxASvgd5Qx09U3GfuT9cqnW/yLQv31S3THoZfIYStVtnVwkIN3ND3rPc/_gPU8nN86-LLYVHMnsKk9qkhcCaeVInx/sAp2UAqkEb2IU_aFiqgY1QwB_LGp6AHA/jfkEKiVfFPIwUhvNwE5EtQ.png" width="240" height="360" alt="cloth"></td>
 <td><img src="https://static.wfolio.com/file/AqiFFw_TXMM4LDwoI2TPSVbk9gd-1s7x/yoh_TtDt5eGETeyieELbAqr824BKVSQo/fMeHlVjqkKHa10hdt8jvgg3NlA505Tdi/h_1qcQusyDg6hcdSnum6zcFLhGji-8q2/FHeGyOiDy9y5-Ss1JHbqflqvsaA0Ji40/XDfJansX800.png" width="240" height="360" alt="result"></td>
 </tr>
+<tr>
+<td><img src="https://static.wfolio.com/file/AqiFFw_TXMM4LDwoI2TPSVbk9gd-1s7x/yoh_TtDt5eGETeyieELbAqr824BKVSQo/ywCqmKO9wl5hgf3SX5C5q77wqIDTdBHR/E3fWXJIAynPaNH2M-GnrBRIXUN9GjDTa/I_UKgKr_rF_NHqtb01IFfwRc0yzaGDnu/fk1TnQz9IqQ.jpg" width="240" height="360" alt="model"></td>
+<td><img src="https://static.wfolio.com/file/AqiFFw_TXMM4LDwoI2TPSVbk9gd-1s7x/yoh_TtDt5eGETeyieELbAqr824BKVSQo/kKhJ_4CoZvHD0MsOGJG_KUD0BqHVRiOm/S1JfQ3v7RT_5y12Ynkmrkwm3ejnF3Yj4/yzUcDZO-DVlOJ-1vgP3tbHvs-5Fv30JW/XXPA-4ZQXLw1KUgqNjoehA9E8nbZL3CX.jpeg" width="240" height="360" alt="cloth"></td>
+<td><img src="https://static.wfolio.com/file/AqiFFw_TXMM4LDwoI2TPSVbk9gd-1s7x/yoh_TtDt5eGETeyieELbAqr824BKVSQo/5S-Rckk8dxcxKUoYkCCq5erD-kbPcfWr/CEt0V_KdYpfHp4pXxL5bo58jsTzKt3CA/puo4ovoo4J_0u3Cy5dOfvnkdYqHE84gG/jdjbCF9Sfww.png" width="240" height="360" alt="result"></td>
+</tr>
 </table>
 
 # Model
 Ig: @kettril
+
+
